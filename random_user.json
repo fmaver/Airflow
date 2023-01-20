@@ -1,0 +1,67 @@
+{
+	"results":
+	[
+	{	
+		"gender":"female",
+		"name":{
+			"title":"Mrs",
+			"first":"Tanise",
+			"last":"Rezende"
+			},
+		"location":{
+			"street":{
+				"number":9480,
+				"name":"Avenida da Legalidade"
+			},
+			"city":"Recife",
+			"state":"Roraima",
+			"country":"Brazil",
+			"postcode":84821,
+			"coordinates":{
+				"latitude":"-80.4293",
+				"longitude":"162.2651"
+			},
+			"timezone":{
+				"offset":"+2:00",
+				"description":"Kaliningrad, South Africa"
+		  }
+		},
+		"email":"tanise.rezende@example.com",
+		"login":{
+			"uuid":"ed88f0bd-d4de-4f2b-bbe7-7fa3b1286020",
+			"username":"heavyladybug983",
+			"password":"union",
+			"salt":"rZ60iUUT",
+			"md5":"43c5eae6538ef99f29159d4980cf18e9",
+			"sha1":"677593e190ae7eb6a4353d84223c3f562ff7d2ec",
+			"sha256":"0437c83e61f5a21f86c64e9af2a6036df5ca940024403314cbb4fc3bdf750507"
+		},
+		"dob":{
+			"date":"1982-12-26T17:13:45.948Z",
+			"age":40
+		},
+		"registered":{
+			"date":"2006-07-20T22:41:47.751Z",
+			"age":16
+		},
+		"phone":"(01) 5401-0397",
+		"cell":"(16) 1953-2488",
+		"id":{
+			"name":"CPF",
+			"value":"056.993.831-37"
+		},
+		"picture":{
+			"large":"https://randomuser.me/api/portraits/women/70.jpg",
+			"medium":"https://randomuser.me/api/portraits/med/women/70.jpg",
+			"thumbnail":"https://randomuser.me/api/portraits/thumb/women/70.jpg"
+		},
+		"nat":"BR"
+	}
+	],
+	"info":{
+		"seed":"2520fc19a1f4dbcc",
+		"results":1,
+		"page":1,
+		"version":"1.4"
+	}
+}
